@@ -16,3 +16,5 @@ Knowledge/
 
 # Keep example JSONL files
 !*.example.jsonl
+
+Trainer/unsloth_compiled_cache/
