@@ -1,0 +1,18 @@
+
+# Virtual environment
+venv/
+
+# Datasets
+Dataset/
+
+# Model files
+models/
+
+# Knowledge files
+Knowledge/
+
+# Ignore all JSONL files
+*.jsonl
+
+# Keep example JSONL files
+!*.example.jsonl
